@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(255, 200, 200, 0.86);
+    align-items: center;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+}
+
+.certificado {
+    background: white;
+    border: 8px solid rgb(235, 228, 4);
+    padding: 40px;
+    max-width: 800px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(215, 255, 0,0.8);
+}
+
+h1 {
+    color: rgb(100, 200, 0 );
+}
+
+.nome {
+    font-size:2rem;
+    margin: 20px 0;
+    color: pink
+}
+
+img {
+    border-radius: 5px;
+    max-width: 100%;
+    height:auto;
+}
+ 
+
+.assinatura {
+    margin-top: 50px;
+}
+
+.assinatura h3 {
+    color: darksalmon;
+}
